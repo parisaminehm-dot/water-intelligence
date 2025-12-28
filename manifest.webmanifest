@@ -1,7 +1,7 @@
 {
   "name": "Intelligence de l'eau",
   "short_name": "Eau",
-  "start_url": "/water-intelligence/index.html",
+  "start_url": "/water-intelligence/",
   "scope": "/water-intelligence/",
   "display": "standalone",
   "background_color": "#ffffff",
